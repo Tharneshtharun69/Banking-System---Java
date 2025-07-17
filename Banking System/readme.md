@@ -31,8 +31,12 @@ BankingSystem.java
 2. **Navigate to project folder**
    cd Banking System
 3. **Compile and Run**
-   javac bankingsystem.java
-   java bankingsystem
+   Compile:
+     To compile run the below command in your terminal
+     javac bankingsystem.java
+   Run:
+     To execute run the below command in your terminal
+     java bankingsystem
 ## 🔮 Future Enhancements
 * Transaction history
 * Password hashing for security
