@@ -11,7 +11,8 @@ A simple **console-based banking application** built using **Java** to practice 
 * Check Balance
 * Deposit Amount
 * Withdraw Amount with validation
-  ✔ **Menu-driven Interface** – Easy navigation through console
+
+✔ **Menu-driven Interface** – Easy navigation through console
 
 ## 🛠 Tech Stack
 * **Language:** Java
