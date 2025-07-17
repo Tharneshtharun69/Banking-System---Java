@@ -38,7 +38,7 @@ public class bankingsystem
                 if (index!=-1&&users.get(index).password==pwd) 
                 {
                     System.out.println("Login successful");
-                    userMenu(index, sc);
+                    userMenu(index,sc);
                 } 
                 else 
                 {
@@ -73,8 +73,8 @@ public class bankingsystem
                     if(users.get(index).password == oldPwd) 
                     {
                         System.out.print("Enter new password: ");
-                        int newPwd = sc.nextInt();
-                        users.get(index).password = newPwd;
+                        int newPwd=sc.nextInt();
+                        users.get(index).password=newPwd;
                         System.out.println("Password reset successfully");
                     } 
                     else 
