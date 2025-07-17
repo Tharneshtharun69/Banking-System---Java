@@ -22,12 +22,12 @@ BankingSystem.java
 * **Main class**: Handles authentication, menu, and banking operations.
 ## ▶ How to Run
 1. **Clone the repository**
-   git clone https://github.com/your-username/java-banking-system.git
+   https://github.com/Tharneshtharun69/Banking-System---Java.git
 2. **Navigate to project folder**
-   cd java-banking-system
+   cd Banking System
 3. **Compile and Run**
-   javac BankingSystem.java
-   java BankingSystem
+   javac bankingsystem.java
+   java bankingsystem
 ## 🔮 Future Enhancements
 * Transaction history
 * Password hashing for security
