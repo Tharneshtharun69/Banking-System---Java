@@ -99,7 +99,7 @@ public class bankingsystem
         }
         sc.close();
     }
-    static int findUser(String uname) 
+    public static int findUser(String uname) 
     {
         for(int i=0;i<users.size();i++) 
         {
@@ -110,7 +110,7 @@ public class bankingsystem
         }
         return -1;
     }
-    static void userMenu(int index, Scanner sc) 
+    public static void userMenu(int index, Scanner sc) 
     {
         while(true) 
         {
